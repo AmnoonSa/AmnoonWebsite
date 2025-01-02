@@ -43,7 +43,7 @@ nav a:hover {
     text-decoration: underline;
 }
 section {
-    padding: 155px 105px;
+    padding: 175px 125px;
     position: relative;
     color: white;
 }
@@ -77,6 +77,24 @@ section h2{
 #news{
     background: #f4f8fb;
 }
+
+.btn-english {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 20px;
+    background-color: #024180;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.btn-english:hover {
+    background-color: #001f3f;
+}
+
 @media (max-width: 1200px) {
     section {
         padding: 30px;
