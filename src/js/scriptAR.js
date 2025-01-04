@@ -85,3 +85,11 @@ document.addEventListener('scroll', function() {
 }, {
     passive: true
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+    const loader = document.getElementById('loading');
+    // Hide the loader after 1 second (or after the page fully loads)
+    setTimeout(() => {
+        loader.style.display = 'none';
+    }, 1000);
+});
