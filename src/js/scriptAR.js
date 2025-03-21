@@ -8,8 +8,9 @@ const images = [
     "./src/img/news/news7.jpeg",
     "./src/img/news/news8.jpg",
     "./src/img/news/news9.png",
-    "./src/img/news/news10.png"
-    "./src/img/news/news11.jpeg"
+    "./src/img/news/news10.png",
+    "./src/img/news/news11.jpeg",
+    "./src/img/news/news12.jpeg",
 ];
 
 const texts = [
