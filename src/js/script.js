@@ -8,7 +8,9 @@ const images = [
     "./src/img/news/news7.jpeg",
     "./src/img/news/news8.jpg",
     "./src/img/news/news9.png",
-    "./src/img/news/news10.png"
+    "./src/img/news/news10.png",
+    "./src/img/news/news11.jpeg",
+    "./src/img/news/news12.jpeg",
 ];
 
 const texts = [
@@ -22,7 +24,8 @@ const texts = [
     "The Sultanate of Oman celebrates its glorious 54th National Day, and on this occasion, Amnoon Security Consulting extends its heartfelt congratulations and best wishes to His Majesty Sultan Haitham bin Tariq, may God protect him, and to the noble Omani people, wishing continued progress and prosperity under this blessed era. May the Sultanate of Pride always remain in glory, security, and prosperity",
     "Security consultant Dr. Abdulaziz Al-Hoshan: Thanks to Allah and the efforts of the Ministry of Interior, the Kingdom has achieved first place in safety and low crime rates.",
     "Security media professor Major General Dr. Barakah Al-Hoshan: The Ministry of Interior has achieved exceptional accomplishments, surpassing interior ministries worldwide.",
-    "Amnon Security Consulting Office is pleased to extend its sincere congratulations and best wishes to the Custodian of the Two Holy Mosques and His Royal Highness the Crown Prince – may Allah protect them – on the occasion of Founding Day. We pray to the Almighty to safeguard our leadership and our nation and to continue blessing us with security, safety, stability, and prosperity.",
+    "Amnoon Security Consulting Office is pleased to extend its sincere congratulations and best wishes to the Custodian of the Two Holy Mosques and His Royal Highness the Crown Prince – may Allah protect them – on the occasion of Founding Day. We pray to the Almighty to safeguard our leadership and our nation and to continue blessing us with security, safety, stability, and prosperity.",
+    "Amnoon, February 24, 2025 – Amnon Security Consulting announced, on the sidelines of the Saudi-Jordanian Business Forum, the signing of a strategic investment agreement with Vibes Digital Solutions, under which Amnon will acquire a stake in Vibes. This move aligns with Amnon’s expansion strategy to strengthen its presence in the digital solutions and cybersecurity sector",
 ];
 
 let activeIndex = 0;
