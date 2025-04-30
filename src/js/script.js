@@ -11,6 +11,7 @@ const images = [
     "./src/img/news/news10.png",
     "./src/img/news/news11.jpeg",
     "./src/img/news/news12.jpeg",
+    "./src/img/news/news13.jpeg",
 ];
 
 const texts = [
@@ -26,6 +27,8 @@ const texts = [
     "Security media professor Major General Dr. Barakah Al-Hoshan: The Ministry of Interior has achieved exceptional accomplishments, surpassing interior ministries worldwide.",
     "Amnoon Security Consulting Office is pleased to extend its sincere congratulations and best wishes to the Custodian of the Two Holy Mosques and His Royal Highness the Crown Prince – may Allah protect them – on the occasion of Founding Day. We pray to the Almighty to safeguard our leadership and our nation and to continue blessing us with security, safety, stability, and prosperity.",
     "Amnoon, February 24, 2025 – Amnon Security Consulting announced, on the sidelines of the Saudi-Jordanian Business Forum, the signing of a strategic investment agreement with Vibes Digital Solutions, under which Amnon will acquire a stake in Vibes. This move aligns with Amnon’s expansion strategy to strengthen its presence in the digital solutions and cybersecurity sector",
+    "We extend our heartfelt congratulations to the Custodian of the Two Holy Mosques and His Royal Highness the Crown Prince — the visionary architect of the Kingdom’s transformation — on the occasion of the release of the annual report of #SaudiVision2030.",
+    "In its ninth year, the Vision has achieved remarkable successes, milestones, and objectives. Thanks to Allah, then to our inspiring leader and our nation’s people, the Vision has become a living reality — no longer just a future dream, but a present-day accomplishment we are proud to witness.",
 ];
 
 let activeIndex = 0;
