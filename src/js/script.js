@@ -12,6 +12,8 @@ const images = [
     "./src/img/news/news11.jpeg",
     "./src/img/news/news12.jpeg",
     "./src/img/news/news13.jpeg",
+    "./src/img/news/news2.jpg",
+    "./src/img/main/logo-blue.png",
 ];
 
 const texts = [
@@ -27,8 +29,9 @@ const texts = [
     "Security media professor Major General Dr. Barakah Al-Hoshan: The Ministry of Interior has achieved exceptional accomplishments, surpassing interior ministries worldwide.",
     "Amnoon Security Consulting Office is pleased to extend its sincere congratulations and best wishes to the Custodian of the Two Holy Mosques and His Royal Highness the Crown Prince – may Allah protect them – on the occasion of Founding Day. We pray to the Almighty to safeguard our leadership and our nation and to continue blessing us with security, safety, stability, and prosperity.",
     "Amnoon, February 24, 2025 – Amnon Security Consulting announced, on the sidelines of the Saudi-Jordanian Business Forum, the signing of a strategic investment agreement with Vibes Digital Solutions, under which Amnon will acquire a stake in Vibes. This move aligns with Amnon’s expansion strategy to strengthen its presence in the digital solutions and cybersecurity sector",
-    "We extend our heartfelt congratulations to the Custodian of the Two Holy Mosques and His Royal Highness the Crown Prince — the visionary architect of the Kingdom’s transformation — on the occasion of the release of the annual report of #SaudiVision2030.",
-    "In its ninth year, the Vision has achieved remarkable successes, milestones, and objectives. Thanks to Allah, then to our inspiring leader and our nation’s people, the Vision has become a living reality — no longer just a future dream, but a present-day accomplishment we are proud to witness.",
+    "We extend our congratulations to the Custodian of the Two Holy Mosques and His Royal Highness the Crown Prince—the architect and mastermind of the Vision—on the release of the annual report for #Saudi_Vision_2030, which, in its ninth year, has achieved remarkable successes, accomplishments, and milestones. Thanks to Allah, then to our visionary leader, and our people, the Vision has become a reality we live and celebrate today—not just a dream of the future",
+    "Security expert Major General Dr. Barakah Al-Hoshan: \"Drone aircraft monitor everything happening in the holy sites and the Makkah region, and cameras cover all control rooms completely.\" This is according to Al Ekhbariya Channel",
+    "We extend our congratulations and best wishes to the Custodian of the Two Holy Mosques, His Royal Highness the Crown Prince, and His Royal Highness the Minister of Interior—may Allah preserve them—on the successful Hajj season of this year, 1446 AH. We ask Allah Almighty to protect our leadership, our nation, and our brave security forces, and to continue to bless us with security, safety, stability, and prosperity",
 ];
 
 let activeIndex = 0;
